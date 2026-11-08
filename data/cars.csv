@@ -1,0 +1,80 @@
+make,model,body_type,engine_cc,fuel,seats,approx_price_sgd,notes
+Toyota,Vios 1.5,Sedan,1500,Hybrid,5,226888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat A
+Toyota,Yaris Cross Active 1.5,SUV,1500,Hybrid,5,240888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat A
+Toyota,Sienta Elegance 1.5,MPV,1500,Hybrid,7,236888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat A; 1-bid guaranteed offer
+Toyota,Corolla Altis Standard 1.6,Sedan,1600,Petrol,5,226888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat A
+Toyota,Corolla Altis Elegance 1.6,Sedan,1600,Petrol,5,234888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat A
+Toyota,Corolla Altis Elegance 1.8,Sedan,1800,Hybrid,5,240888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B
+Toyota,Prius 1.8,Hatchback,1800,Hybrid,5,232888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B
+Toyota,Camry Elegance 2.5,Sedan,2500,Hybrid,5,293888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B
+Toyota,Corolla Cross Premium 2.0,SUV,2000,Hybrid,5,256888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B; 1-bid guaranteed offer
+Toyota,RAV4 Premium 2.5,SUV,2500,Hybrid,5,282888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B
+Toyota,Harrier Premium 2.5,SUV,2500,Hybrid,5,293888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B; 1-bid guaranteed offer
+Toyota,Noah Elegance 1.8,MPV,1800,Hybrid,7,255888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B
+Toyota,Alphard Standard 2.5,MPV,2500,Hybrid,7,414888,Toyota list 5-18 Nov 2026; incl COE; COE cat not stated
+Toyota,Alphard Elegance 2.5,MPV,2500,Hybrid,7,430888,Toyota list 5-18 Nov 2026; incl COE; COE cat not stated
+Toyota,Vellfire Elegance 2.5,MPV,2500,Hybrid,7,433888,Toyota list 5-18 Nov 2026; incl COE; COE cat not stated
+Toyota,Urban Cruiser,SUV,,Electric,5,233888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat A
+Toyota,bZ4X,SUV,,Electric,5,256888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B; 1-bid guaranteed offer
+Toyota,bZ4X Touring,SUV,,Electric,5,289888,Toyota list 5-18 Nov 2026; incl COE; COE cat inferred; Cat B
+Honda,Civic 1.5 Turbo,Sedan,1500,Petrol,5,234999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat A
+Honda,Jazz 1.5 Crosstar,Hatchback,1500,Hybrid,5,208999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat A
+Honda,Super-ONE,Hatchback,,Electric,4,211999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat A
+Honda,Civic 2.0 e:HEV,Sedan,2000,Hybrid,5,263999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat B
+Honda,CR-V 1.5 5-seater,SUV,1500,Petrol,5,277999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat B
+Honda,CR-V 1.5 7-seater,SUV,1500,Petrol,7,287999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat B
+Honda,HR-V 1.5 HX,SUV,1500,,5,226999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat B; fuel not stated
+Honda,Step WGN 2.0 Spada,MPV,2000,,7,257999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat B; fuel not stated
+Honda,ZR-V 2.0 e:HEV,SUV,2000,Hybrid,5,249999,Honda list 22 Oct-4 Nov 2026 (expired); before discounts; non-guaranteed COE; Cat B
+Lexus,LBX Elegant,SUV,1490,Hybrid,5,277800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+Lexus,NX 350h Executive,SUV,2487,Hybrid,5,365800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+Lexus,NX 450h+ F Sport,SUV,2487,Plug-in hybrid,5,456800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+Lexus,RX 350h Executive,SUV,2487,Hybrid,5,450800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+Lexus,RZ 350e,SUV,,Electric,5,356800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+Lexus,ES 350h,Sedan,2487,Hybrid,5,370800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+Lexus,ES 350e,Sedan,,Electric,5,396800,Lexus list 5-18 Nov 2026; incl COE likely; VES basis unclear
+BMW,116 M Sport,Hatchback,,Petrol,5,269888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,216i Active Tourer Inspiring,MPV,,Petrol,5,278888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,216 Gran Coupe M Sport,Sedan,,Petrol,5,278888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,318i Inspiring,Sedan,,Petrol,5,319888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,318i M Sport,Sedan,,Petrol,5,331888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,520i,Sedan,,Petrol,5,388888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,X1 sDrive16i M Sport,SUV,,Petrol,5,309888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,X3 20 xDrive,SUV,,Petrol,5,374888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,i4 eDrive35 M Sport,Sedan,,Electric,5,373888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,i5 eDrive40,Sedan,,Electric,5,438888,BMW list from 4 Nov 2026; incl COE and VES
+BMW,iX xDrive45 M Sport,SUV,,Electric,5,506888,BMW list from 4 Nov 2026; incl COE and VES
+Audi,A3 Sportback S line 30 TFSI,Hatchback,,Petrol (mild hybrid),5,272999,Audi list from 5 Nov 2026; COE inclusion unclear
+Audi,A3 Sedan S line 30 TFSI,Sedan,,Petrol (mild hybrid),5,273999,Audi list from 5 Nov 2026; COE inclusion unclear
+Audi,A5 Sedan advanced TFSI,Sedan,,Petrol,5,345999,Audi list from 5 Nov 2026; COE inclusion unclear
+Audi,Q3 SUV advanced TFSI,SUV,,Petrol (mild hybrid),5,306999,Audi list from 5 Nov 2026; COE inclusion unclear
+Audi,Q5 SUV advanced TFSI,SUV,,Petrol (mild hybrid),5,388999,Audi list from 5 Nov 2026; COE inclusion unclear
+Audi,Q4 e-tron advanced,SUV,,Electric,5,345999,Audi list from 5 Nov 2026; COE inclusion unclear
+Audi,Q6 e-tron,SUV,,Electric,5,401999,Audi list from 5 Nov 2026; COE inclusion unclear
+Volvo,V60 B4 Plus,Wagon,,Petrol,5,332000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Volvo,XC40 B4 Plus,SUV,,Petrol (mild hybrid),5,300000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Volvo,XC60 B5 Plus,SUV,,Petrol (mild hybrid),5,377000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Volvo,XC60 T8 Plus,SUV,,Plug-in hybrid,5,372000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Volvo,EX30 Plus,SUV,,Electric,5,239000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Volvo,EX30 Ultra,SUV,,Electric,5,259000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Volvo,EX40 Ultra,SUV,,Electric,5,290000,Volvo list 4 Nov 2026; incl COE and conditional subsidies
+Kia,EV5 Earth Long Range,SUV,,Electric,5,273999,Kia list 26 Oct-4 Nov 2026 (expired); list price before conditional discounts; Cat A
+Kia,EV4 Sedan,Sedan,,Electric,5,225999,Oneshift news; incl COE; date not stated
+Tesla,Model 3 RWD 110,Sedan,,Electric,5,187888,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat A"
+Tesla,Model 3 Long Range RWD,Sedan,,Electric,5,213888,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat B"
+Tesla,Model 3 Performance AWD,Sedan,,Electric,5,250121,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat B"
+Tesla,Model Y RWD 110,SUV,,Electric,5,201888,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat A"
+Tesla,Model Y Long Range RWD,SUV,,Electric,5,230888,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat B"
+Tesla,Model Y Long Range AWD,SUV,,Electric,5,242544,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat B"
+Tesla,Model Y L,SUV,,Electric,6,248999,"Tesla walkaway incl COE, June 2026 snapshot; COE higher now; Cat B"
+BYD,Atto 2,SUV,,Electric,5,168888,Checked 29 Oct 2026; non-guaranteed COE (176888 guaranteed); promo to 4 Nov; Cat A
+BYD,Atto 1 Dynamic,Hatchback,,Electric,4,172888,Launch list price 9 Sep 2026; guaranteed Cat A COE
+BYD,Dolphin,Hatchback,,Electric,5,176888,"Driveaway incl COE, June 2026 snapshot; COE higher now; Cat A"
+BYD,Atto 3,SUV,,Electric,5,171888,"Driveaway incl COE, June 2026 snapshot; non-guaranteed; COE higher now; Cat A"
+Dongfeng,Box,Hatchback,,Electric,,173888,Checked 29 Oct 2026; promo to 4 Nov; guaranteed COE
+Omoda,E5,SUV,,Electric,5,174999,Checked 29 Oct 2026; non-guaranteed COE (179999 guaranteed); promo to 29 Oct
+Seres,3 Electric Classic,SUV,,Electric,5,176800,Checked 29 Oct 2026; guaranteed COE; Cat A
+Proton,e.MAS 7,SUV,,Electric,5,175988,Oneshift headline price incl COE; date not stated
+MG,S5 EV RWD,SUV,,Electric,5,165888,Oneshift headline promo price; date and COE cat not stated
+Suzuki,Jimny,SUV,1462,Petrol,4,183888,Checked 29 Oct 2026; starting price
+Nissan,Note e-POWER,Hatchback,,e-POWER hybrid,5,196800,"Advertised starting price, Oct 2026; confirm COE package"

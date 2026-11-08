@@ -1,0 +1,37 @@
+COE bidding results summary: the table below covers the 24 bidding exercises from the 2nd exercise of November 2025 to the 1st exercise of November 2026. Premiums are Quota Premiums (what every successful bidder paid) in Singapore dollars.
+COE category reminder: Cat A is for cars up to 1,600cc and 97kW (130bhp), and electric cars up to 110kW. Cat B is for bigger or more powerful cars. Cat C is goods vehicles and buses. Cat D is motorcycles. Cat E is open (any vehicle except motorcycles).
+Sources: OneShift COE history table, cross-checked against Motorist, AAS and news reports. Last bidding exercise included: 4 November 2026. This file does not hold the full history back to 2010.
+Latest COE results, 1st bidding exercise of November 2026 (closed 4 Nov 2026): Cat A S$139,001 (up S$6,997 from S$132,004), Cat B S$132,334 (up S$433), Cat C S$92,000, Cat D S$10,689, Cat E S$135,998. Cat A quota 1,189 with 2,018 bids. Cat B quota 959 with 1,163 bids. Cat E quota 287 with 506 bids. The next exercise closes on 18 Nov 2026.
+Prevailing Quota Premium (PQP) for COE renewal in November 2026: Cat A S$129,883, Cat B S$131,819, Cat C S$91,814, Cat D S$11,392. PQP is the moving average of the last three months of COE prices.
+COE result, 2nd bidding exercise of November 2025 (closed 19 November 2025): Cat A S$109,000, Cat B S$129,890, Cat C S$76,389, Cat D S$8,729, Cat E S$125,001.
+COE result, 1st bidding exercise of December 2025 (closed 3 December 2025): Cat A S$105,413, Cat B S$123,900, Cat C S$76,501, Cat D S$8,289, Cat E S$123,000.
+COE result, 2nd bidding exercise of December 2025 (closed 17 December 2025): Cat A S$109,501, Cat B S$115,102, Cat C S$77,003, Cat D S$8,081, Cat E S$119,000.
+COE result, 1st bidding exercise of January 2026 (closed 7 January 2026): Cat A S$102,009, Cat B S$119,100, Cat C S$75,503, Cat D S$8,689, Cat E S$122,000.
+COE result, 2nd bidding exercise of January 2026 (closed 21 January 2026): Cat A S$109,501, Cat B S$121,634, Cat C S$75,202, Cat D S$8,860, Cat E S$120,891.
+COE result, 1st bidding exercise of February 2026 (closed 4 February 2026): Cat A S$106,320, Cat B S$110,890, Cat C S$74,801, Cat D S$8,289, Cat E S$116,000.
+COE result, 2nd bidding exercise of February 2026 (closed 20 February 2026): Cat A S$106,501, Cat B S$105,001, Cat C S$74,999, Cat D S$7,989, Cat E S$112,890.
+COE result, 1st bidding exercise of March 2026 (closed 4 March 2026): Cat A S$108,220, Cat B S$114,002, Cat C S$76,000, Cat D S$8,602, Cat E S$114,890.
+COE result, 2nd bidding exercise of March 2026 (closed 18 March 2026): Cat A S$111,890, Cat B S$115,568, Cat C S$78,000, Cat D S$9,589, Cat E S$118,119.
+COE result, 1st bidding exercise of April 2026 (closed 8 April 2026): Cat A S$118,000, Cat B S$121,000, Cat C S$80,001, Cat D S$10,000, Cat E S$121,001.
+COE result, 2nd bidding exercise of April 2026 (closed 22 April 2026): Cat A S$123,010, Cat B S$121,001, Cat C S$83,501, Cat D S$9,290, Cat E S$125,002.
+COE result, 1st bidding exercise of May 2026 (closed 6 May 2026): Cat A S$124,790, Cat B S$126,236, Cat C S$87,479, Cat D S$9,452, Cat E S$127,700.
+COE result, 2nd bidding exercise of May 2026 (closed 20 May 2026): Cat A S$124,229, Cat B S$129,501, Cat C S$92,223, Cat D S$9,689, Cat E S$130,000.
+COE result, 1st bidding exercise of June 2026 (closed 4 June 2026): Cat A S$126,009, Cat B S$126,989, Cat C S$94,000, Cat D S$10,000, Cat E S$129,000.
+COE result, 2nd bidding exercise of June 2026 (closed 17 June 2026): Cat A S$123,847, Cat B S$123,502, Cat C S$93,001, Cat D S$9,989, Cat E S$129,002.
+COE result, 1st bidding exercise of July 2026 (closed 8 July 2026): Cat A S$129,000, Cat B S$130,889, Cat C S$95,000, Cat D S$10,201, Cat E S$129,801.
+COE result, 2nd bidding exercise of July 2026 (closed 22 July 2026): Cat A S$126,000, Cat B S$129,890, Cat C S$93,889, Cat D S$10,202, Cat E S$129,971.
+COE result, 1st bidding exercise of August 2026 (closed 5 August 2026): Cat A S$123,890, Cat B S$129,910, Cat C S$91,545, Cat D S$10,503, Cat E S$131,000.
+COE result, 2nd bidding exercise of August 2026 (closed 19 August 2026): Cat A S$128,501, Cat B S$131,001, Cat C S$90,002, Cat D S$11,301, Cat E S$135,000.
+COE result, 1st bidding exercise of September 2026 (closed 9 September 2026): Cat A S$133,009, Cat B S$135,001, Cat C S$93,101, Cat D S$12,556, Cat E S$137,890.
+COE result, 2nd bidding exercise of September 2026 (closed 23 September 2026): Cat A S$131,890, Cat B S$133,000, Cat C S$92,144, Cat D S$12,201, Cat E S$137,000.
+COE result, 1st bidding exercise of October 2026 (closed 7 October 2026): Cat A S$130,001, Cat B S$130,100, Cat C S$91,889, Cat D S$11,012, Cat E S$137,000.
+COE result, 2nd bidding exercise of October 2026 (closed 21 October 2026): Cat A S$132,004, Cat B S$131,901, Cat C S$92,200, Cat D S$10,778, Cat E S$135,790.
+COE result, 1st bidding exercise of November 2026 (closed 4 November 2026): Cat A S$139,001, Cat B S$132,334, Cat C S$92,000, Cat D S$10,689, Cat E S$135,998.
+Cat A COE range over these 24 exercises: highest S$139,001 on 4 November 2026, lowest S$102,009 on 7 January 2026.
+Cat B COE range over these 24 exercises: highest S$135,001 on 9 September 2026, lowest S$105,001 on 20 February 2026.
+Cat C COE range over these 24 exercises: highest S$95,000 on 8 July 2026, lowest S$74,801 on 4 February 2026.
+Cat D COE range over these 24 exercises: highest S$12,556 on 9 September 2026, lowest S$7,989 on 20 February 2026.
+Cat E COE range over these 24 exercises: highest S$137,890 on 9 September 2026, lowest S$112,890 on 20 February 2026.
+Cat A cost more than Cat B in these exercises: 20 February 2026; 22 April 2026; 17 June 2026; 21 October 2026; 4 November 2026. Normally Cat B is higher, but buyers moving to Cat A-eligible cars (including power-limited electric cars) pushed Cat A up.
+Cat A trend: from S$109,000 in late November 2025 to S$139,001 in early November 2026, a rise of S$30,001, and the Cat A record high in this period is the November 2026 1st exercise.
+Cat B trend: from S$129,890 in late November 2025 to S$132,334 in early November 2026.

@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What is a COE?",
+    "expected_source": "01_coe_explainer.md"
+  },
+  {
+    "question": "How is the ARF calculated?",
+    "expected_source": "02_arf_omv.md"
+  },
+  {
+    "question": "What is the PARF rebate and who gets it?",
+    "expected_source": "03_parf_rebate.md"
+  },
+  {
+    "question": "How is road tax worked out?",
+    "expected_source": "04_road_tax.md"
+  },
+  {
+    "question": "What was the Category A COE premium in the 1st bidding of November 2026?",
+    "expected_source": "coe_results_recent.txt"
+  },
+  {
+    "question": "Which cars in your list are SUVs?",
+    "expected_source": "cars.csv"
+  },
+  {
+    "question": "What is the best pizza in Singapore?",
+    "expected_source": null,
+    "should_refuse": true
+  }
+]
