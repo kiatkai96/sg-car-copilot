@@ -24,6 +24,26 @@
     "expected_source": "cars.csv"
   },
   {
+    "question": "How much of the ARF does the EV Early Adoption Incentive cover and when does it end?",
+    "expected_source": "05_ves_eeai_ev_incentives.md"
+  },
+  {
+    "question": "What is the maximum car loan I can get if the OMV is above $20,000?",
+    "expected_source": "06_car_loan_rules.md"
+  },
+  {
+    "question": "How do I transfer ownership when buying a used car?",
+    "expected_source": "07_buying_and_transferring_a_used_car.md"
+  },
+  {
+    "question": "How often must a 5 year old private car be inspected?",
+    "expected_source": "08_vehicle_inspection.md"
+  },
+  {
+    "question": "What is the difference between third party and comprehensive motor insurance?",
+    "expected_source": "09_motor_insurance.md"
+  },
+  {
     "question": "What is the best pizza in Singapore?",
     "expected_source": null,
     "should_refuse": true
