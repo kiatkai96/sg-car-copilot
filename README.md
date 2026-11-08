@@ -2,7 +2,7 @@
 
 A personal project: a Q&A assistant for buying and owning a car in Singapore, built with RAG (Retrieval-Augmented Generation).
 
-![SG Car Copilot screenshot](docs/screenshot.png)
+![SG Car Copilot screenshot](Screenshot.png)
 
 ## Why I built it
 
