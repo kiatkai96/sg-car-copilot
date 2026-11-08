@@ -23,7 +23,7 @@ python -m eval.run_eval            # report card
 
 1. **Ingest** - text is cut into small chunks, turned into numbers (embeddings) and stored in a local ChromaDB index.
 2. **Retrieve** - your question is turned into numbers too, and the closest chunks are fetched.
-3. **Generate** - a free LLM (Groq or Gemini) answers using only those chunks, with citations. If nothing is close enough, the app refuses instead of guessing.
+3. **Generate** - a free LLM Gemini 3 Flash answers using only those chunks, with citations. If nothing is close enough, the app refuses instead of guessing.
 
 ## Evaluation
 
