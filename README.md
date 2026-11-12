@@ -30,6 +30,8 @@ Car ownership in Singapore has a lot of moving parts: COE, ARF, OMV, PARF rebate
 | COE bidding results | The last 24 bidding rounds, from late Nov 2025 to early Nov 2026 |
 | Car price list | About 80 models with approximate prices including COE |
 
+![Process Map](factory_map.png)
+
 ## Technical details
 
 ### The big picture
